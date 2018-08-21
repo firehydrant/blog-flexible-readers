@@ -1,24 +1,11 @@
-# README
+# Flexible Ruby On Rails Readers
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The final result for the [Flexible Ruby On Rails Readers](https://medium.com/firehydrant-io/ruby-on-rails-reader-objects-b1f2a74e9dfb)
 
-Things you may want to cover:
+Notable files:
 
-* Ruby version
+* [app/controllers/users_controller.rb](app/controllers/users_controller.rb)
+* [app/readers/user_reader.rb](app/readers/user_reader.rb)
+* [app/views/users/index.html.erb](app/views/users/index.html.erb)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This design pattern is used widely across [firehydrant.io](https://firehydrant.io) and works great. Enjoy!
