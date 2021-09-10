@@ -1,6 +1,6 @@
 # Flexible Ruby On Rails Readers
 
-The final result for the [Flexible Ruby On Rails Readers](https://medium.com/firehydrant-io/ruby-on-rails-reader-objects-b1f2a74e9dfb)
+The final result for the [Flexible Ruby On Rails Readers](https://firehydrant.io/blog/flexible-ruby-on-rails-reader-objects/)
 
 Notable files:
 
